@@ -42,6 +42,15 @@ h1 {
 color: #66Bfbf;
 
 }
+
+#Disclaimer{
+  color: #ff1818;
+}
+
+#Motto{
+  color: #ff1818;
+}
+
 h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.1rem;
@@ -93,6 +102,12 @@ height: 110px;
 .Intro{
   width: 30%;
   margin: auto;
+}
+
+.Motto h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #2600ff;
+   
 }
 .Skills{
   text-align: center;
